@@ -87,8 +87,7 @@ git push origin main
    - 需改为: 实际的应用商店链接
 
 2. 如果需要修改联系邮箱：
-   - 当前使用: support@mergeshooter.com
-   - 可在两个HTML文件中搜索替换
+   - 当前使用: lengyy6@gmail.com
 
 3. 隐私政策已包含Google Play要求的所有内容，
    可以直接使用，无需修改。

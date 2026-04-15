@@ -84,8 +84,8 @@ https://youyileng.github.io/mergeshooter.github.io/privacy-policy.html
    - 位置: 第35行
    - 将 `https://play.google.com/store` 替换为实际的Google Play应用链接
 
-2. **联系邮箱** (可选):
-   - 如果有实际的支持邮箱，可以替换 `support@mergeshooter.com`
+2. **联系邮箱**：
+   - 使用邮箱：lengyy6@gmail.com
 
 ## 🎨 自定义样式
 

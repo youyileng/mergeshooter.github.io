@@ -30,7 +30,7 @@ This site is deployed using GitHub Pages. Any push to the main branch will autom
 
 ## Contact
 
-For support and inquiries: support@mergeshooter.com
+For support and inquiries: lengyy6@gmail.com
 
 ## License
 
