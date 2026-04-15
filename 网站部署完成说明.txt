@@ -44,7 +44,7 @@ Google Play 使用的URL：
 ========================================
 
 隐私政策URL（必填）：
-https://youyileng.github.io/mergeshooter.github.io/privacy-policy.html
+https://youyileng.github.io/mergeshooter.github.io/privacy.html
 
 游戏首页URL（可选）：
 https://youyileng.github.io/mergeshooter.github.io/
@@ -57,9 +57,9 @@ https://youyileng.github.io/mergeshooter.github.io/
 
 包含：
 - index.html (首页)
-- privacy-policy.html (隐私政策)
+- privacy.html (隐私政策)
 - style.css (样式)
-- b.png, bg.png, c.png, e.png (游戏截图)
+- b.png, c.png, e.png (游戏截图)
 - README.md (项目说明)
 - deploy.bat (部署脚本)
 - SETUP_INSTRUCTIONS.md (详细设置说明)

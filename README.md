@@ -5,7 +5,7 @@ This repository contains the official website and privacy policy for Merge Shoot
 ## Website URLs
 
 - **Homepage**: https://youyileng.github.io/mergeshooter.github.io/
-- **Privacy Policy**: https://youyileng.github.io/mergeshooter.github.io/privacy-policy.html
+- **Privacy Policy**: https://youyileng.github.io/mergeshooter.github.io/privacy.html
 
 ## About Merge Shooter
 
@@ -20,9 +20,9 @@ Merge Shooter is a strategic tank defense game where players merge identical tan
 ## Files
 
 - `index.html` - Main homepage
-- `privacy-policy.html` - Privacy policy page (required for Google Play)
+- `privacy.html` - Privacy policy page (required for Google Play)
 - `style.css` - Stylesheet for all pages
-- `b.png`, `bg.png`, `c.png`, `e.png` - Game screenshots
+- `b.png`, `c.png`, `e.png` - Game screenshots
 
 ## Deployment
 

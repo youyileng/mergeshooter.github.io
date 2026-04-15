@@ -4,9 +4,9 @@
 
 1. ✅ 创建了完整的网站文件
    - `index.html` - 游戏首页
-   - `privacy-policy.html` - 隐私政策页面
+   - `privacy.html` - 隐私政策页面
    - `style.css` - 样式文件
-   - 4张游戏截图
+   - 3张游戏截图
 
 2. ✅ 已推送到GitHub仓库
    - 仓库地址: https://github.com/youyileng/mergeshooter.github.io.git
@@ -40,13 +40,13 @@
 设置完成后，你的网站将在以下地址可用：
 
 - **首页**: https://youyileng.github.io/mergeshooter.github.io/
-- **隐私政策**: https://youyileng.github.io/mergeshooter.github.io/privacy-policy.html
+- **隐私政策**: https://youyileng.github.io/mergeshooter.github.io/privacy.html
 
 ## 📱 Google Play 使用说明
 
 在Google Play Console中填写隐私政策URL时，使用：
 ```
-https://youyileng.github.io/mergeshooter.github.io/privacy-policy.html
+https://youyileng.github.io/mergeshooter.github.io/privacy.html
 ```
 
 ## 🔄 更新网站
