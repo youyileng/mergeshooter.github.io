@@ -459,3 +459,25 @@ footer {
         font-size: 1rem;
     }
 }
+
+/* Privacy retention table */
+.retention-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+    font-size: 0.95rem;
+}
+.retention-table th,
+.retention-table td {
+    border: 1px solid #d0d6dd;
+    padding: 0.6rem 0.9rem;
+    text-align: left;
+    vertical-align: top;
+}
+.retention-table th {
+    background: #f1f4f8;
+    font-weight: 600;
+}
+.retention-table tbody tr:nth-child(even) {
+    background: #fafbfc;
+}
